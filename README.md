@@ -6,13 +6,13 @@ My name is Sylvia Anyango Ayoo ,am deeply passionate about tech especially  data
 # Expectations from this program
 I expect the data program to equip me with practical analytical skills, industry-relevant knowledge, and hands-on experience that will enable me to transform data into meaningful insights and impactful solutions.
 # What i hope to learn 
-How to collect, clean, analyze, and interpret data
-How to use data analysis tools and technologies effectively
-How to identify trends and generate meaningful insights from data
-Data visualization and reporting techniques
-Problem-solving using data-driven approaches
-Decision-making based on accurate data analysis
-Real-world application of data in business and technology
-Communication of findings through clear reports and presentations
-Team collaboration on data-related projects
-Industry best practices in data management and analytics
+How to collect, clean, analyze, and interpret data.
+How to use data analysis tools and technologies effectively.
+How to identify trends and generate meaningful insights from data.
+Data visualization and reporting techniques.
+Problem-solving using data-driven approaches.
+Decision-making based on accurate data analysis.
+Real-world application of data in business and technology.
+Communication of findings through clear reports and presentations.
+Team collaboration on data-related projects.
+Industry best practices in data management and analytics.
